@@ -1,0 +1,656 @@
+    1  uname
+    2  exit
+    3  clear
+    4  uname
+    5  pwd
+    6  mkdir Test
+    7  ls
+    8  mkdir -v DevOps
+    9  ls
+   10  pwd
+   11  ls
+   12  mkdir -p DevOps/Linux/ShellScript/Git/Maven/Tomcat/SoanrQube/Nexus
+   13  mkdir -vp DevOps/Linux/ShellScript/Git/Maven/Tomcat/SoanrQube/Nexus
+   14  mkdir  DevOps/Linux/ShellScript/Git/Maven/Tomcat/SoanrQube/Nexus/Jenkins/Ansible
+   15  clear
+   16  mkdir  DevOps/Linux/ShellScript/Git/Maven/Tomcat/SoanrQube/Nexus/Jenkins
+   17  mkdir  DevOps/Linux/ShellScript/Git/Maven/Tomcat/SoanrQube/Nexus/Jenkins/Ansible
+   18  ls
+   19  tree
+   20  TREE
+   21  LS
+   22  yum install tree
+   23  clear
+   24  pwd
+   25  sudo su -
+   26  pwd
+   27  tree
+   28  ls
+   29  ls -l
+   30  touch devops.txt
+   31  ls -l
+   32  clear
+   33  ls -l
+   34  ll
+   35  mkdir Python
+   36  ls -l
+   37  ls -lt
+   38  ls -ltr
+   39  clear
+   40  mkdir -m 700 Jenkins
+   41  ls -l
+   42  pwd
+   43  ls 
+   44  ls -a
+   45  ls -al
+   46  mkdir .AWS
+   47  ls -l
+   48  touch .test.txt
+   49  ls
+   50  ls -l
+   51  ls -a
+   52  ls -la
+   53  clear
+   54  sudo su -
+   55  clear
+   56  ls -l
+   57  touch java
+   58  ls -l
+   59  cd /
+   60  pwd
+   61  ls
+   62  uname
+   63  clear
+   64  ls
+   65  ls -l
+   66  ls -li
+   67  clear
+   68  ls
+   69  pwd
+   70  tree
+   71  cd DevOps/Linux/ShellScript/Git/Maven/Tomcat/SoanrQube/Nexus/Jenkins/
+   72  pwd
+   73  clear
+   74  pwd
+   75  cd Ansible/
+   76  pwd
+   77  clear
+   78  pwd
+   79  ls
+   80  cd ..
+   81  pwd
+   82  cd ../..
+   83  pwd
+   84  cd ../../..
+   85  cd Maven/Tomcat/SoanrQube/Nexus/Jenkins/Ansible/A
+   86  cd Maven/Tomcat/SoanrQube/Nexus/Jenkins/Ansible/
+   87  pwd
+   88  clear
+   89  pwd
+   90  cd ~
+   91  pwd
+   92  cd -
+   93  pwd
+   94  cd
+   95  pwd
+   96  clear
+   97  cd -
+   98  cd 
+   99  clear
+  100  pwd
+  101  ls
+  102  ls -li
+  103  ls -i
+  104  clear
+  105  ls
+  106  rmdir Test/
+  107  ls
+  108  rmdir Python
+  109  ls
+  110  rmdir Jenkins/
+  111  ls
+  112  rmdir DevOps/
+  113  rm -rf DevOps
+  114  ls
+  115  man rm
+  116  rm -f devops.txt 
+  117  ls
+  118  pwd
+  119  ls
+  120  cd tmp
+  121  cd /tmp
+  122  pwd
+  123  ls
+  124  rm -rf *
+  125  ls -l
+  126  cd -
+  127  pwd
+  128  clear
+  129  ls
+  130  rm -f java 
+  131  ls
+  132  pwd
+  133  clear
+  134  touch devops.txt
+  135  touch python.sh
+  136  ls -l
+  137  mkdir -v DevOps
+  138  touch -v java.txt
+  139  clear
+  140  man touch
+  141  ls
+  142  ls -l
+  143  vi devops.txt 
+  144  ls -l
+  145  cat devops.txt 
+  146  clear
+  147  ls -l
+  148  touch devops.txt 
+  149  ls -l
+  150  touch test1.txt test2.txt
+  151  ls
+  152  touch test.sh test.py
+  153  ls -l
+  154  clear
+  155  ls
+  156  touch DevOps/test.c
+  157  ls
+  158  ls DevOps/
+  159  mkdir Python
+  160  ls
+  161  mkdir DevOps/Test
+  162  ls DevOps/
+  163  clear
+  164  ls -l
+  165  clear
+  166  exit
+  167  uname
+  168  clear
+  169  ls -l
+  170  ls Python/
+  171  ls DevOps/
+  172  sudo su -
+  173  clear
+  174  find . -type f -empty
+  175  find . -type d -empty
+  176  find / -type f -empty
+  177  clear
+  178  ls -l
+  179  umask
+  180  sudo su -
+  181  clear
+  182  ls -l
+  183  chmod 000 devops.txt 
+  184  ls -l
+  185  cat devops.txt 
+  186  chmod 400  devops.txt
+  187  cat devops.txt 
+  188  ls -l
+  189  chmod 444  devops.txt
+  190  ls -l
+  191  chmod 764  devops.txt
+  192  ls -l
+  193  chmod 777 devops.txt
+  194  ls -l
+  195  chmod 888 devops.txt 
+  196  clear
+  197  ls -l
+  198  chmod 000 DevOps
+  199  ls -l
+  200  chmod 400 DevOps/
+  201  ls -l
+  202  ls -l DevOps/
+  203  clear
+  204  chmod -R 400 DevOps
+  205  sudo chmod -R 400 DevOps/
+  206  ls -l DevOps/
+  207  chmod -R 700 DevOps/
+  208  ls -l DevOps/
+  209  chmod 777 DevOps/
+  210  ls -l
+  211  ls -l DevOps/
+  212  chmod -R DevOps/
+  213  chmod -R 777 DevOps/
+  214  ls -l  DevOps/
+  215  clear
+  216  ls -l 
+  217  chmod 000 devops.txt 
+  218  ls -l
+  219  chmod u+r  devops.txt
+  220  ls -l
+  221  chmod +r  devops.txt
+  222  ls -l
+  223  hmod u+rwx,g+rw,o+r  devops.txt
+  224  chmod u+rwx,g+rw,o+r  devops.txt
+  225  ls -l
+  226  chmod ugo+rwx devops.txt 
+  227  ls -l
+  228  chmod ugo-rwx devops.txt 
+  229  ls -l
+  230  chmod ugo+rwx devops.txt 
+  231  ls -l
+  232  clear
+  233  ls -l
+  234  chmod 1777 devops.txt 
+  235  ls -l
+  236  chmod 0777 devops.txt 
+  237  ls -l
+  238  umask
+  239  uname
+  240  clear
+  241  ls -l
+  242  chown bhaskar devops.txt 
+  243  chown root  devops.txt 
+  244  sudo su -
+  245  pwd
+  246  sudo su 
+  247  clear
+  248  l s-l
+  249  ls -l
+  250  mv DevOps/ DevOps1
+  251  ls -l
+  252  vi test.sh
+  253  ls -l
+  254  file test.sh 
+  255  file test.py
+  256  clear
+  257  ls -l
+  258  wc test.sh
+  259  wc -w test.sh test.py 
+  260  wc -w *.txt
+  261  wc -l test.sh
+  262  wc -c test.sh
+  263  wc DevOps1/
+  264  clear
+  265  ls -l
+  266  ln test.sh  lntest.txt
+  267  ls -l
+  268  ls -li
+  269  ln lntest.txt  ln1.txt
+  270  ls -li
+  271  vi ln1.txt 
+  272  ls -l
+  273  cat test.sh 
+  274  ln -s test.sh lnsoft.sh
+  275  ls -l
+  276  ln DevOps1/ DevOpslink
+  277  ln -s  DevOps1/ DevOpslink
+  278  ls -l
+  279  rm -f test.sh
+  280  cat ln1.txt 
+  281  cat lnsoft.sh
+  282  ls -l
+  283  touch test.sh
+  284  ls -l
+  285  uname
+  286  clear
+  287  pwd
+  288  ls
+  289  uname
+  290  vi DevOps.txt
+  291  cat DevOps.txt 
+  292  vi DevOps.txt 
+  293  cat DevOps.txt 
+  294  vi DevOps.txt 
+  295  clear
+  296  vim Python.txt
+  297  yum install vim zip unzip nano -y
+  298  sudo su -
+  299  logout
+  300  uname
+  301  clear
+  302  vim Python.txt
+  303  cat Python.txt 
+  304  ls
+  305  sudo su -
+  306  clear
+  307  ls -l
+  308  clear
+  309  cat password 
+  310  clear
+  311  vim password 
+  312  nano nanotest.txt
+  313  cat nanotest.txt 
+  314  clear
+  315  echo Hello Guys
+  316  echo Hello      Guys
+  317  echo 'Hello      Guys'
+  318  echo 'Hello      Guys"
+  319  '
+  320  echo 'Hello      Guys"
+  321  '
+  322  echo 'Hello      Guys"
+  323  clear
+  324  cat password
+  325  cat -n  password
+  326  cleaf
+  327  clear
+  328  head password 
+  329  head -n 12 password 
+  330  clear
+  331  tail password 
+  332  tail -20 password 
+  333  clear
+  334  sudo su -
+  335  sed -n "22" password
+  336  sed -n "22p" password
+  337  cat -n password 
+  338  clear
+  339  sed -n "9p" password
+  340  sed -n "9,12p" password 
+  341  vi sample.txt
+  342  sed "s/red/blue/" password 
+  343  sed "s/red/blue/" sample.txt 
+  344  sed "s/red/blue/g" sample.txt 
+  345  sed "s/red/blue/2" sample.txt 
+  346  clear
+  347  cat sample.txt 
+  348  sed -i "s/red/blue/g" sample.txt 
+  349  cat sample.txt 
+  350  clear
+  351  vi password 
+  352  cat -n password 
+  353  clear
+  354  more password 
+  355  clear
+  356  less password 
+  357  vi friends.txt
+  358  cat friends.txt 
+  359  sort friends.txt 
+  360  sort -r friends.txt 
+  361  clear
+  362  cat friends.txt 
+  363  cat friends.txt | sort 
+  364  cat friends.txt | sort -r
+  365  cat friends.txt | sort -r | tr [a-z] [A-Z]
+  366  clear
+  367  cat friends.txt 
+  368  grep bhaskar friends.txt 
+  369  grep Bhaskar friends.txt 
+  370  grep -i Bhaskar friends.txt 
+  371  clear
+  372  cat friends.txt | grep bhaskar
+  373  tail password 
+  374  tail -f password 
+  375  clear
+  376  exit
+  377  uname
+  378  ps
+  379  cleat
+  380  clear
+  381  top
+  382  exit
+  383  su - root
+  384  exit
+  385  unam
+  386  uname
+  387  clear
+  388  ls
+  389  mv DevOps DevOps1
+  390  mv DevOps1 DevOps
+  391  ls
+  392  zip -r devops.zip DevOps
+  393  ls
+  394  rm -rf DevOps
+  395  ls
+  396  unzip devops.zip 
+  397  ls
+  398  clear
+  399  ls -l /tmp/
+  400  rm -rf * /tmp/
+  401  sudo rm -rf * /tmp/
+  402  clear
+  403  ls -l /tmp
+  404  sudo mkdir /tmp/
+  405  clear
+  406  ls -l /tmp/
+  407  ls
+  408  wget https://dlcdn.apache.org/maven/maven-3/3.8.6/binaries/apache-maven-3.8.6-bin.zip
+  409  sudo yum install wget -y
+  410  clear
+  411  wget https://dlcdn.apache.org/maven/maven-3/3.8.6/binaries/apache-maven-3.8.6-bin.zip
+  412  clear
+  413  ls
+  414  unzip apache-maven-3.8.6-bin.zip 
+  415  clear
+  416  ls
+  417  unzip apache-maven-3.8.6-bin.zip  /tmp/
+  418  unzip apache-maven-3.8.6-bin.zip  -d /tmp/
+  419  clear
+  420  ls -l /tmp/
+  421  ls -l /
+  422  sudo chmod -R 777 /tmp/
+  423  unzip apache-maven-3.8.6-bin.zip  -d /tmp/
+  424  ls -l /tmp/
+  425  clear
+  426  ls
+  427  tar -cvf maven.tar apache-maven-3.8.6
+  428  clear
+  429  ls
+  430  rm -rf apache-maven-3.8.6
+  431  ls
+  432  tar -xvf maven.tar 
+  433  ls
+  434  clear
+  435  useradd bhaskar
+  436  sudo su -
+  437  exit
+  438  who -H
+  439  exit
+  440  logout
+  441  uname
+  442  who
+  443  exit
+  444  who
+  445  ssh santosh@52.66.84.112
+  446  exit
+  447  uname
+  448  who -H
+  449  exit
+  450  uname
+  451  who -H
+  452  uname
+  453  who -H
+  454  who -Hi
+  455  who
+  456  ls -l
+  457  cat /hello.sh
+  458  cat hello.
+  459  cd /home/
+  460  ls 
+  461  cd ec2-user/
+  462  ls 
+  463  cat hello.sh 
+  464  who -H
+  465  password
+  466  passw0rd
+  467  hostname
+  468  sudo su -
+  469  ls -l
+  470  whoami
+  471  w
+  472  who
+  473  who -h
+  474  who --h
+  475  sudo su -
+  476  ls
+  477  who -H
+  478  uname 
+  479  who
+  480  linux
+  481  username
+  482  uname
+  483  who -H
+  484  ssh ec2-user@52.66.84.112
+  485  ll
+  486  cd /home/bhaskar/
+  487  ls -l
+  488  cat hello.sh
+  489  su subbu
+  490  su - subbu
+  491  sudo su -
+  492  uname
+  493  ll
+  494  uname
+  495  sudo su -
+  496  clear
+  497  cronatb -l
+  498  crontab -l
+  499  touch /etc/cron.allow
+  500  sudo touch /etc/cron.allow
+  501  crontab -l
+  502  ls -l /etc
+  503  clear
+  504  man touch
+  505  touch -v test.sh
+  506  clear
+  507  sudo vim /etc/cron.allow 
+  508  crontab -l
+  509  crontab -l -u bhaskar
+  510  sudo crontab -l -u bhaskar
+  511  su - bhaskar
+  512  clear
+  513  cronatb -l
+  514  crontab -l
+  515  ls
+  516  vim hello.sh
+  517  ls -l
+  518  pwd
+  519  ./hello.sh
+  520  chmod u+x hello.sh 
+  521  ls -l
+  522  ./hello.sh 
+  523  clear
+  524  pwd
+  525  ./hello.sh 
+  526  crontab -l
+  527  crontab -e
+  528  crontab -l
+  529  ls
+  530  cat hello.log
+  531  cronatb -e
+  532  crontab -e
+  533  clear
+  534  cat hello.log
+  535  cat hello.log 
+  536  clear
+  537  cronatb -e
+  538  crontab -e
+  539  cat hello.log 
+  540  crontab -e
+  541  clear
+  542  crontab -ir
+  543  crontab -l
+  544  crontab -r
+  545  crontab -l
+  546  sudo su -
+  547  ls -la
+  548  cd .ssh
+  549  ls -la
+  550  vi known_hosts
+  551  ssh ec2-user@52.66.84.112
+  552  uname
+  553  ls
+  554  scp hello.sh ec2-user@13.127.78.200:/tmp/
+  555  scp -i "devopsjulybatch2022.pem" hello.sh ec2-user@13.127.78.200:/tmp/
+  556  clear
+  557  su - bhaskar
+  558  vi privatefile.pem
+  559  ls
+  560  scp -i "privatefile.pem" hello.sh ec2-user@13.127.78.200:/tmp/
+  561  chmod 400 privatefile.pem 
+  562  clear
+  563  scp -i "privatefile.pem" hello.sh ec2-user@13.127.78.200:/tmp/
+  564  clear
+  565  free
+  566  free -h
+  567  free -k
+  568  free -m
+  569  free -g
+  570  clear
+  571  free -h
+  572  top
+  573  clear
+  574  df -h
+  575  clear
+  576  dmidecode
+  577  sudo dmidecode
+  578  clear
+  579  exit
+  580  cal
+  581  date
+  582  exit
+  583  ls
+  584  date
+  585  hostname -i
+  586  exit
+  587  ifconfig
+  588  exit
+  589  uname
+  590  clear
+  591  cal
+  592  cal -3
+  593  cal -4
+  594  clear
+  595  cal 2020
+  596  cal 3 2020
+  597  clear
+  598  cal -1
+  599  cal
+  600  clear
+  601  cal 1845
+  602  clear
+  603  cal 1995
+  604  clear
+  605  cal 3 2020
+  606  cal march 2020
+  607  cal 2025
+  608  clear
+  609  cal 8 2020
+  610  clear
+  611  wget https://dlcdn.apache.org/maven/maven-3/3.8.6/binaries/apache-maven-3.8.6-bin.zip
+  612  ls
+  613  wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.64/bin/apache-tomcat-9.0.64.zip
+  614  ls
+  615  clear
+  616  ls
+  617  clear
+  618  ls
+  619  ls > lsopt.txt
+  620  cat lsopt.txt 
+  621  clear
+  622  ls -l
+  623  clear
+  624  ls
+  625  ls | tee teeopt.txt
+  626  cat teeopt.txt 
+  627  clear
+  628  curl -o /tmp/tomcat.zip https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.64/bin/apache-tomcat-9.0.64.zip
+  629  ls -l /tmp
+  630  wget -O /tmp/tomcatnew.zip https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.64/bin/apache-tomcat-9.0.64.zip
+  631  ls -l /tmp
+  632  clear
+  633  script
+  634  ls
+  635  cat typescript 
+  636  clear
+  637  script bhaskar.txt
+  638  script -a  bhaskar.txt
+  639  clear
+  640  cat bhaskar.txt 
+  641  clear
+  642  exit
+  643  clear
+  644  ping google.com
+  645  clear
+  646  ping -c 5 google.com
+  647  clear
+  648  telnet google.com 80
+  649  yum install telnet -y
+  650  sudo yum install telnet -y
+  651  clear
+  652  telnet google.com 80
+  653  telnet google.com 8080
+  654  clear
+  655  history
+  656  history > history.txt
