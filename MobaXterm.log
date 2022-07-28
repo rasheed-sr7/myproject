@@ -1,0 +1,379 @@
+[22:10.54.907]  Starting MobaXterm
+[22:10.54.907]  
+[22:10.54.907]  BEGIN AdaptToGlobalDPI
+[22:10.54.907]      AdaptToGlobalDPI: DPI=144
+[22:10.54.907]      BEGIN LaunchLoadFlatIconsThreads
+[22:10.54.907]          BEGIN WaitForLoadFlatIconsThreads
+[22:10.54.907]          END WaitForLoadFlatIconsThreads
+[22:10.54.907]          BEGIN WaitForGenerateStdListThreads
+[22:10.54.907]          END WaitForGenerateStdListThreads
+[22:10.54.907]          Loading flat icons 16
+[22:10.54.907]          Loading flat icons 22
+[22:10.54.907]          Loading flat icons 64
+[22:10.54.907]          Loading extensions icons
+[22:10.54.907]      END LaunchLoadFlatIconsThreads
+[22:10.54.908]      ImChecks <-- ImChecks16
+[22:10.54.912]  END AdaptToGlobalDPI
+[22:10.54.912]  
+[22:10.54.912]  BEGIN AddMobaConsoleFont
+[22:10.54.913]  END AddMobaConsoleFont
+[22:10.54.913]  
+[22:10.54.913]  
+[22:10.54.913]  BEGIN MobaProfileDir detection
+[22:10.54.913]      BEGIN GetProfileDirScore(C:\Users\rijju\AppData\Roaming\)
+[22:10.54.914]          "C:\Users\rijju\AppData\Roaming\" seems to be writeable
+[22:10.54.914]          "C:\Users\rijju\AppData\Roaming\MobaXterm\MobaXterm.ini" already exists
+[22:10.54.914]          "C:\Users\rijju\AppData\Roaming\" is not a network path
+[22:10.54.914]      END GetProfileDirScore(C:\Users\rijju\AppData\Roaming\): 36
+[22:10.54.914]  END MobaProfileDir detection
+[22:10.54.914]  
+[22:10.54.914]  --> Selected MobaProfile directory: "C:\Users\rijju\AppData\Roaming\"
+[22:10.54.914]  
+[22:10.54.915]  - MobaXterm version: 22.1 Build 4888
+[22:10.54.915]  - Command line: "C:\Users\rijju\Downloads\MobaXterm_Portable_v22.1\MobaXterm_Personal_22.1.exe"
+[22:10.54.915]  - Date: 2022-07-18
+[22:10.54.915]  - Windows version number: 10.0.2.22000.
+[22:10.54.915]  - Windows version name: Windows 10
+[22:10.54.915]  - Windows full name: Windows 10 Home 2009 build 22000
+[22:10.54.915]  - Windows architecture: 64-bits
+[22:10.54.915]  - User language: English (United States)
+[22:10.54.915]  - CPU architecture: x86
+[22:10.54.915]  - Detected DPI: 144
+[22:10.54.915]  - Current DPI: 144
+[22:10.54.915]  - CurDir: C:\Users\rijju\DOWNLO~1\MOBAXT~1.1\
+[22:10.54.915]  - PersonalDir: C:\Users\rijju\OneDrive\DOCUME~1\
+[22:10.54.915]  - AppDataDir: C:\Users\rijju\AppData\Roaming\
+[22:10.54.915]  - LocalAppDataDir: C:\Users\rijju\AppData\Local\
+[22:10.54.915]  - DesktopDir: C:\Users\rijju\OneDrive\Desktop\
+[22:10.54.915]  - CustomProfileDir: 0
+[22:10.54.915]  - MobaProfileDir: C:\Users\rijju\AppData\Roaming\
+[22:10.54.915]  - Free space in MobaProfileDir folder: 439220MB
+[22:10.54.915]  - TempDir: C:\Users\rijju\AppData\Local\Temp\
+[22:10.54.916]  - Free space in TempDir folder: 439220MB
+[22:10.54.916]  - Monitor #0: 1920x1080
+[22:10.54.916]  - User name: rijju
+[22:10.54.916]  - Computer name: INBOOK_X1_SLIM
+[22:10.54.916]  - Current Windows locale: 1033
+[22:10.54.916]  - Windows beta unicode support not set
+[22:10.54.916]  - Uptime: 4 days, 06:56:43
+[22:10.54.916]  - Windows PATH: C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\rijju\AppData\Local\Microsoft\WindowsApps;
+[22:10.54.916]  - WSL PATH: C:\WINDOWS\Sysnative\wsl.exe
+[22:10.54.916]  
+[22:10.54.916]  BEGIN Form1.FormCreate
+[22:10.54.916]      Detecting installed/portable version
+[22:10.54.916]      --> installed version
+[22:10.54.916]      
+[22:10.54.916]      Detecting IniSettings
+[22:10.54.916]      MobaXterm seems to be running in "Installed mode".
+[22:10.54.916]      Ini file will be taken from "C:\Users\rijju\AppData\Roaming\MobaXterm\MobaXterm.ini".
+[22:10.54.916]      MobaXterm will take its configuration from file "C:\Users\rijju\AppData\Roaming\MobaXterm\MobaXterm.ini".
+[22:10.54.916]      (selected ini file seems to be writeable)
+[22:10.54.916]      --> IniSettings= C:\Users\rijju\AppData\Roaming\MobaXterm\MobaXterm.ini
+[22:10.54.916]      
+[22:10.54.917]      
+[22:10.54.917]      We are using the "New" SSH engine
+[22:10.54.917]      
+[22:10.54.917]      
+[22:10.54.917]      Detecting ModeIni
+[22:10.54.917]      --> ModeIni= false
+[22:10.54.917]      
+[22:10.54.917]      Detecting CygUtils
+[22:10.54.917]      CygUtils32 detected
+[22:10.54.917]      --> Using CygPackage C:\Users\rijju\DOWNLO~1\MOBAXT~1.1\CygUtils.plugin
+[22:10.54.917]      
+[22:10.54.917]      Starting CygUtils package thread
+[22:10.54.917]      BEGIN GetCygUtilsPackageZip
+[22:10.54.917]      END GetCygUtilsPackageZip
+[22:10.54.917]      
+[22:10.54.917]      Detecting MobaXVTDir
+[22:10.54.917]      IniSlashDir:=C:\Users\rijju\AppData\Roaming\MobaXterm\slash
+[22:10.54.917]      BEGIN IsFolderRW(C:\Users\rijju\AppData\Roaming\MobaXterm\slash)
+[22:10.54.924]      END IsFolderRW(C:\Users\rijju\AppData\Roaming\MobaXterm\slash) --> OK
+[22:10.54.924]      --> MobaXVTDir= C:\Users\rijju\AppData\Roaming\MobaXterm\slash
+[22:10.54.924]      
+[22:10.54.924]      Detecting BinExeDir
+[22:10.54.924]      --> BinExeDir= C:\Users\rijju\AppData\Roaming\MobaXterm\slash\bin\
+[22:10.54.924]      
+[22:10.54.924]      Detecting MobaXVTHomeDir
+[22:10.54.926]      BEGIN IsFolderRW(C:\Users\rijju\AppData\Roaming\MobaXterm\home)
+[22:10.54.929]      END IsFolderRW(C:\Users\rijju\AppData\Roaming\MobaXterm\home) --> OK
+[22:10.54.929]      --> MobaXVTHomeDir= C:\Users\rijju\AppData\Roaming\MobaXterm\home
+[22:10.54.929]      
+[22:10.54.929]      Skin detection
+[22:10.54.929]      Skin selected: Windows bright theme
+[22:10.54.929]      Set Application Title
+[22:10.54.930]      Create SSH memory storage
+[22:10.54.930]      Clean custom shared sessions
+[22:10.54.930]      Adapting splash screen color to logo
+[22:10.54.930]      Detecting if another instance is running...
+[22:10.54.930]      No other instance is running. Cleaning potential files from any previous instance...
+[22:10.54.946]      Cleaning done.
+[22:10.54.946]      Detecting installed WSL and other bash-based distributions
+[22:10.54.946]      
+[22:10.54.946]      BEGIN ListWslDistrosFromRegistry(HKCU)
+[22:10.54.946]      END ListWslDistrosFromRegistry(HKCU)
+[22:10.54.946]      
+[22:10.54.946]      
+[22:10.54.946]      BEGIN ListWslDistrosFromRegistry(HKLM)
+[22:10.54.946]      END ListWslDistrosFromRegistry(HKLM)
+[22:10.54.946]      
+[22:10.54.946]      Loading skins
+[22:10.54.946]      
+[22:10.54.946]      Detected MobaXterm bright theme setting
+[22:10.54.946]      
+[22:10.54.946]  END Form1.Create
+[22:10.54.946]  
+[22:10.54.946]  
+[22:10.54.946]  CREATING Form4
+[22:10.55.011]  BEGIN Form4.Create
+[22:10.55.011]      BEGIN WaitForLoadFlatIconsThreads
+[22:10.55.021]          
+[22:10.55.021]          BEGIN Form4.FormActivate
+[22:10.55.022]              Form4.FormActivate0: First time window activation
+[22:10.55.024]              Form4.FormActivate1
+[22:10.55.024]              Form4.FormActivate2
+[22:10.55.025]              Form4.FormActivate3
+[22:10.55.026]              Form4.FormActivate4
+[22:10.55.026]              Form4.FormActivate5
+[22:10.55.027]              Form4.FormActivate6
+[22:10.55.027]              Registering global show/hide hotkey
+[22:10.55.027]              Registering global show/hide popup terminal
+[22:10.55.027]              BEGIN LoadParamsFromIni: C:\Users\rijju\AppData\Roaming\MobaXterm\MobaXterm.ini
+[22:10.55.027]                  !!!! Exception EAccessViolation: Access violation at address 008DE23E in module 'MobaXterm_Personal_22.1.exe'. Write of address 00000635 during Form4Activate1
+[22:10.55.027]                  !!!! Exception EAccessViolation: Access violation at address 0098DF8E in module 'MobaXterm_Personal_22.1.exe'. Read of address 000003D8 during Form4Activate2
+[22:10.55.027]                  ChDir(Form1.BaseDir): C:\Users\rijju\AppData\Roaming\
+[22:10.55.027]                  FirstParam:
+[22:10.55.027]                  Launching NewTab
+[22:10.55.027]                  
+[22:10.55.027]                  BEGIN NEWTAB(home, 135, 0)
+[22:10.55.027]                  END NEWTAB(home, 135, 0)
+[22:10.55.027]                  
+[22:10.55.027]                  !!!! Exception EAccessViolation: Access violation at address 0097861C in module 'MobaXterm_Personal_22.1.exe'. Read of address 000004C8 during Form4Activate4
+[22:10.55.027]                  
+[22:10.55.027]                  
+[22:10.55.027]                  
+[22:10.55.027]                  +---------------------------------+
+[22:10.55.027]                  | Main window activation: 79855027ms |
+[22:10.55.027]                  +---------------------------------+
+[22:10.55.027]                  
+[22:10.55.027]                  
+[22:10.55.027]                  
+[22:10.55.027]                  Launching bookmarks();
+[22:10.55.027]              END Form4.FormActivate
+[22:10.55.027]              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     +--------------------------------------------------------------------+ 
+     |                 Windows Event Viewer: "Application"                | 
+     +--------------------------------------------------------------------+ 
+
+
+
+
+
+
+
+
+Info    | 2022-07-18 16:23:21 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 16:21:45 | Software Protection Platform Service |     |    2122-06-24T16:21:45Z    |    RulesEngine
+Info    | 2022-07-18 16:21:22 | SecurityCenter |     |    Windows Defender    |    SECURITY_PRODUCT_STATE_ON
+Info    | 2022-07-18 16:21:14 | Software Protection Platform Service | 
+Info    | 2022-07-18 16:20:02 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 16:19:19 | Software Protection Platform Service |     |    2122-06-24T16:19:19Z    |    RulesEngine
+Info    | 2022-07-18 16:18:24 | Software Protection Platform Service | 
+Info    | 2022-07-18 16:15:17 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 16:10:13 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 16:06:48 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 16:03:30 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 15:58:01 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 15:53:49 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 15:38:54 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 15:34:52 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 15:25:46 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 15:22:12 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 15:21:35 | Software Protection Platform Service |     |    2122-06-24T15:21:35Z    |    RulesEngine
+Info    | 2022-07-18 15:21:05 | Software Protection Platform Service | 
+Info    | 2022-07-18 15:20:07 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 15:17:50 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 15:15:51 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 15:15:19 | SecurityCenter |     |    Windows Defender    |    SECURITY_PRODUCT_STATE_ON
+Info    | 2022-07-18 15:15:04 | igfxCUIService2.0.0.0 |     |    Received Post Shell Event 17
+
+Info    | 2022-07-18 15:15:04 | Wlclntfy |     |    SessionEnv
+Info    | 2022-07-18 15:15:04 | igfxCUIService2.0.0.0 |     |    Logon: 17
+
+Info    | 2022-07-18 15:15:04 | igfxCUIService2.0.0.0 |     |    Log on event received User1
+
+Info    | 2022-07-18 15:15:04 | Wlclntfy |     |    SessionEnv
+Info    | 2022-07-18 15:15:03 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 15:15:03 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 15:15:02 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 14:39:26 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 14:39:26 | Wlclntfy |     |    SessionEnv
+Info    | 2022-07-18 14:39:26 | Wlclntfy |     |    WSearch
+Info    | 2022-07-18 14:39:24 | Desktop Window Manager | 
+Info    | 2022-07-18 14:37:35 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 14:36:09 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 14:36:09 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 14:36:08 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 14:30:07 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 14:24:39 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 14:24:39 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 14:24:39 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 13:55:07 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 13:50:45 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 13:46:56 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 13:43:03 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 13:41:52 | edgeupdate |     |    Service stopped
+Info    | 2022-07-18 13:41:39 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 13:41:39 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 13:19:50 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 13:10:57 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 13:08:22 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 13:08:22 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 13:08:22 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 13:05:28 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 13:05:01 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 12:59:44 | igccservice |     |    PowerEvent handled successfully by the service.
+Info    | 2022-07-18 12:58:16 | Software Protection Platform Service |     |    2122-06-24T12:58:16Z    |    RulesEngine
+Info    | 2022-07-18 12:57:44 | Software Protection Platform Service | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     +--------------------------------------------------------------------+ 
+     |                   Windows Event Viewer: "System"                   | 
+     +--------------------------------------------------------------------+ 
+
+
+
+
+
+
+
+
+Info    | 2022-07-18 16:23:21 | Microsoft-Windows-Kernel-Power |     |    true    |    45010    |    50011
+Info    | 2022-07-18 16:21:20 | Microsoft-Windows-WindowsUpdateClient |     |    Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.371.386.0)    |    {821547ac-9c27-4397-93bc-d51f0aeb2059}    |    200    |    {9482f4b4-e343-43b6-b170-9a65bc822c77}
+Info    | 2022-07-18 16:21:20 | Service Control Manager |     |    MpKsl0fb2ffba    |    C:\ProgramData\Microsoft\Windows Defender\Definition Updates\{FF155ABC-E859-439F-83DE-C33C16B8C10B}\MpKslDrv.sys    |    kernel mode driver    |    demand start    |    ?
+Info    | 2022-07-18 16:21:15 | Microsoft-Windows-WindowsUpdateClient |     |    Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.371.386.0)    |    {821547ac-9c27-4397-93bc-d51f0aeb2059}    |    200
+Info    | 2022-07-18 16:19:19 | Microsoft-Windows-WindowsUpdateClient |     |    Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.371.386.0)    |    {821547ac-9c27-4397-93bc-d51f0aeb2059}    |    200
+Info    | 2022-07-18 15:53:49 | Microsoft-Windows-Kernel-Power |     |    false    |    49503    |    50011
+Info    | 2022-07-18 15:42:17 | Microsoft-Windows-Kernel-Power |     |    12    |    31    |    334    |    1    |    542261457    |    47008    |    50011    |    48510    |    50011    |    336    |    0    |    true    |    31
+Info    | 2022-07-18 15:33:15 | Microsoft-Windows-Kernel-Power |     |    12    |    12    |    333    |    0    |    1091127018    |    43508    |    50011    |    47008    |    50011    |    334    |    1    |    true    |    12
+Warning | 2022-07-18 15:17:07 | DCOM |     |    application-specific    |    Local    |    Activation    |    {2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}    |    {15C20B67-12E7-4BB6-92BB-7AFF07997402}    |    INBOOK_X1_SLIM    |    rijju    |    S-1-5-21-666986221-1031775739-524755155-1001    |    LocalHost (Using LRPC)    |    MicrosoftWindows.Client.WebExperience_421.20070.545.0_x64__cw5n1h2txyewy    |    Unavailable
+Warning | 2022-07-18 15:16:57 | Netwtw10 |     |    \Device\NDMP1    |    Intel(R) Wireless-AC 9461
+Error   | 2022-07-18 15:16:55 | Server |     |    \Device\NetBT_Tcpip_{E08CB279-D164-4C7B-91C7-CC3DD04B282D}
+Info    | 2022-07-18 15:16:51 | Netwtw10 |     |    ?
+Info    | 2022-07-18 15:16:51 | Netwtw10 |     |    ?
+Info    | 2022-07-18 15:16:47 | Netwtw10 |     |    \Device\NDMP1    |    Intel(R) Wireless-AC 9461
+Warning | 2022-07-18 15:15:21 | DCOM |     |    application-specific    |    Local    |    Activation    |    {2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}    |    {15C20B67-12E7-4BB6-92BB-7AFF07997402}    |    INBOOK_X1_SLIM    |    rijju    |    S-1-5-21-666986221-1031775739-524755155-1001    |    LocalHost (Using LRPC)    |    MicrosoftTeams_22168.200.1405.7434_x64__8wekyb3d8bbwe    |    Unavailable
+Warning | 2022-07-18 15:15:19 | DCOM |     |    application-specific    |    Local    |    Activation    |    {2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}    |    {15C20B67-12E7-4BB6-92BB-7AFF07997402}    |    INBOOK_X1_SLIM    |    rijju    |    S-1-5-21-666986221-1031775739-524755155-1001    |    LocalHost (Using LRPC)    |    Unavailable    |    Unavailable
+Info    | 2022-07-18 15:15:05 | Microsoft-Windows-Power-Troubleshooter |     |    2022-07-18T14:39:26.7424928Z    |    2022-07-18T15:15:04.3090238Z    |    713    |    1817    |    781    |    6853    |    1210    |    3324    |    247056    |    1979728129    |    6    |    5    |    0    |    0    |    ?    |    0    |    0    |    0    |    ?    |    ?    |    81
+Info    | 2022-07-18 15:15:04 | BTHUSB |     |    ?
+Warning | 2022-07-18 15:15:04 | DCOM |     |    application-specific    |    Local    |    Activation    |    {6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}    |    {4839DDB7-58C2-48F5-8283-E1D1807D0D7D}    |    NT AUTHORITY    |    LOCAL SERVICE    |    S-1-5-19    |    LocalHost (Using LRPC)    |    Unavailable    |    Unavailable
+Warning | 2022-07-18 15:15:04 | DCOM |     |    application-specific    |    Local    |    Activation    |    {6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}    |    {4839DDB7-58C2-48F5-8283-E1D1807D0D7D}    |    NT AUTHORITY    |    LOCAL SERVICE    |    S-1-5-19    |    LocalHost (Using LRPC)    |    Unavailable    |    Unavailable
+Info    | 2022-07-18 15:15:04 | Microsoft-Windows-Winlogon |     |    17    |    S-1-5-21-666986221-1031775739-524755155-1001
+Info    | 2022-07-18 15:15:04 | Microsoft-Windows-Kernel-Power |     |    12    |    1    |    331    |    1    |    1041338    |    43508    |    50011    |    43508    |    50011    |    333    |    0    |    true    |    1
+Info    | 2022-07-18 15:15:03 | Microsoft-Windows-Kernel-Power |     |    12    |    20    |    330    |    3    |    2136522617    |    43508    |    50011    |    43508    |    50011    |    331    |    1    |    true    |    20
+Info    | 2022-07-18 15:15:03 | Microsoft-Windows-Kernel-Boot |     |    0
+Info    | 2022-07-18 15:15:03 | Microsoft-Windows-Kernel-Boot |     |    1
+Info    | 2022-07-18 15:15:03 | Microsoft-Windows-Kernel-Boot |     |    0    |    6668    |    6719    |    7944    |    7947
+Info    | 2022-07-18 15:15:02 | Microsoft-Windows-Kernel-Power |     |    true    |    43508    |    50011
+Info    | 2022-07-18 15:15:02 | Microsoft-Windows-Kernel-General |     |    2022-07-18T15:15:02.5000000Z    |    2022-07-18T14:39:28.1470428Z    |    2    |    ?    |    4    |    2022-07-18T20:45:02.5000000Z    |    -330    |    false    |    false
+Info    | 2022-07-18 14:39:28 | Microsoft-Windows-Kernel-Power |     |    6    |    5    |    5    |    1601-01-01T00:00:00.0000000Z    |    1601-01-01T00:00:00.0000000Z    |    0    |    0
+Info    | 2022-07-18 14:39:27 | Microsoft-Windows-Kernel-Power |     |    6    |    5    |    4    |    0    |    53
+Info    | 2022-07-18 14:39:26 | Microsoft-Windows-Kernel-Power |     |    12    |    1    |    329    |    0    |    197509471    |    44005    |    50011    |    43508    |    50011    |    330    |    3    |    false    |    1
+Info    | 2022-07-18 14:39:26 | Microsoft-Windows-Kernel-Power |     |    53    |    \Device\HarddiskVolume3\Windows\System32\winlogon.exe    |    3    |    2
+Info    | 2022-07-18 14:39:26 | Win32k |     |    ?
+Info    | 2022-07-18 14:39:26 | Microsoft-Windows-Winlogon |     |    16    |    S-1-5-21-666986221-1031775739-524755155-1001
+Warning | 2022-07-18 14:37:43 | DCOM |     |    application-specific    |    Local    |    Activation    |    {2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}    |    {15C20B67-12E7-4BB6-92BB-7AFF07997402}    |    INBOOK_X1_SLIM    |    rijju    |    S-1-5-21-666986221-1031775739-524755155-1001    |    LocalHost (Using LRPC)    |    Unavailable    |    Unavailable
+Info    | 2022-07-18 14:37:30 | Netwtw10 |     |    \Device\NDMP1    |    Intel(R) Wireless-AC 9461
+Warning | 2022-07-18 14:36:19 | Netwtw10 |     |    \Device\NDMP1    |    Intel(R) Wireless-AC 9461
+Error   | 2022-07-18 14:36:13 | Server |     |    \Device\NetBT_Tcpip_{E08CB279-D164-4C7B-91C7-CC3DD04B282D}
+Info    | 2022-07-18 14:36:11 | BTHUSB |     |    ?
+Info    | 2022-07-18 14:36:10 | Microsoft-Windows-Power-Troubleshooter |     |    2022-07-18T14:30:07.2972553Z    |    2022-07-18T14:36:08.9989245Z    |    688    |    498    |    492    |    1017    |    0    |    0    |    0    |    1912622080    |    4    |    4    |    1    |    0    |    ?    |    0    |    0    |    0    |    ?    |    ?    |    127
+Info    | 2022-07-18 14:36:09 | Netwtw10 |     |    ?
+Info    | 2022-07-18 14:36:09 | Microsoft-Windows-Kernel-Power |     |    12    |    1    |    327    |    1    |    257806    |    44005    |    50011    |    44005    |    50011    |    329    |    0    |    false    |    1
+Info    | 2022-07-18 14:36:08 | Microsoft-Windows-Kernel-Power |     |    12    |    20    |    326    |    3    |    361627321    |    44005    |    50011    |    44005    |    50011    |    327    |    1    |    false    |    20
+Info    | 2022-07-18 14:36:08 | Netwtw10 |     |    \Device\NDMP1    |    Intel(R) Wireless-AC 9461
+Info    | 2022-07-18 14:36:08 | Netwtw10 |     |    \Device\NDMP1    |    Intel(R) Wireless-AC 9461
+Info    | 2022-07-18 14:36:08 | Microsoft-Windows-Kernel-Power |     |    4    |    968    |    967
+Info    | 2022-07-18 14:36:08 | Microsoft-Windows-Kernel-General |     |    2022-07-18T14:36:08.5000000Z    |    2022-07-18T14:30:08.6595382Z    |    2    |    ?    |    4    |    2022-07-18T20:06:08.5000000Z    |    -330    |    false    |    false
+Info    | 2022-07-18 14:30:08 | Microsoft-Windows-Kernel-Power |     |    4    |    4    |    4    |    2022-07-18T17:30:07.9858765Z    |    2022-07-18T17:30:07.9858765Z    |    4    |    4
+Info    | 2022-07-18 14:30:07 | Microsoft-Windows-Kernel-Power |     |    4    |    4    |    7    |    0    |    52
+Info    | 2022-07-18 14:30:07 | Microsoft-Windows-Kernel-Power |     |    12    |    20    |    324    |    1    |    266841887    |    44005    |    50011    |    44005    |    50011    |    326    |    3    |    false    |    20
+Info    | 2022-07-18 14:25:40 | Microsoft-Windows-Kernel-Power |     |    12    |    12    |    323    |    0    |    60600570    |    44502    |    50011    |    44005    |    50011    |    324    |    1    |    false    |    12
+Warning | 2022-07-18 14:24:42 | Netwtw10 |     |    \Device\NDMP1    |    Intel(R) Wireless-AC 9461
+Error   | 2022-07-18 14:24:43 | Server |     |    \Device\NetBT_Tcpip_{E08CB279-D164-4C7B-91C7-CC3DD04B282D}
+Info    | 2022-07-18 14:24:40 | BTHUSB |     |    ?
+Info    | 2022-07-18 14:24:40 | Microsoft-Windows-Power-Troubleshooter |     |    2022-07-18T13:55:07.1500323Z    |    2022-07-18T14:24:39.0181219Z    |    590    |    517    |    510    |    1016    |    0    |    0    |    0    |    1912622080    |    4    |    4    |    1    |    0    |    ?    |    0    |    0    |    0    |    ?    |    ?    |    119
+Info    | 2022-07-18 14:24:39 | Microsoft-Windows-Kernel-Power |     |    12    |    1    |    321    |    1    |    912089    |    44502    |    50011    |    44502    |    50011    |    323    |    0    |    false    |    1
+Info    | 2022-07-18 14:24:39 | Netwtw10 |     |    ?
+Info    | 2022-07-18 14:24:39 | Microsoft-Windows-Kernel-Power |     |    12    |    20    |    320    |    3    |    1771744692    |    44502    |    50011    |    44502    |    50011    |    321    |    1    |    false    |    20
+Info    | 2022-07-18 14:24:38 | Netwtw10 |     |    \Device\NDMP1    |    Intel(R) Wireless-AC 9461
+Info    | 2022-07-18 14:24:38 | Netwtw10 |     |    \Device\NDMP1    |    Intel(R) Wireless-AC 9461
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[22:10.55.032]              !!!! EXCEPTION EAccessViolation:  Access violation at address 0098EA0E in module 'MobaXterm_Personal_22.1.exe'. Read of address 00000300
+[22:10.55.032]              - Form4.Indice: 0
+[22:10.55.032]              - Form4.TabMax: 0
+[22:10.55.032]              - Form4.Cts1.ActiveTabIndex: -1
+[22:10.55.032]              - Form4.Cts1.Tabs.Count: 0
